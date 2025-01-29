@@ -1,3 +1,2 @@
-# javarepowithmergeconflicts
-This is first line maindev
-This is second lin main dev
+# Simple Java Project
+This is a demo project that you can use with [Buddy Continuous Deployment](https://buddy.works).
