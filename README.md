@@ -1,2 +1,3 @@
 # javarepowithmergeconflicts
-This is sample test repo based on java with merge conflicts 
+This is first line maindev
+This is second lin main dev
