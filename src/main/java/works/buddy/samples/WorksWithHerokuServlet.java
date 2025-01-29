@@ -1,4 +1,4 @@
-package works.buddy.samples;
+package works.buddy.samples ;
 
 import javax.servlet.ServletException;
 import javax.servlet.http.HttpServlet;
@@ -13,7 +13,7 @@ public class WorksWithHerokuServlet extends HttpServlet {
         response.setContentType("text/plain");
         response.setStatus(404);
         PrintWriter writer = response.getWriter();
-        writer.print("Buddy Works with Heroku");
+        writer.print("Buddy Works with Heroku added by amit");
         writer.close();
     }
 }
